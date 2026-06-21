@@ -40,3 +40,11 @@ A business website for a salon brand with modern UI and booking-focused design.
 ## 📫 Connect
 
 Email: ankitgharu842@gmail.com
+
+
+
+##  GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANKIT-1616&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKIT-1616&layout=compact&theme=github_dark)
